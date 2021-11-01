@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.as{
+  background-color: black;
+}
+
+div.noPadding {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+div.noMargin {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+img{
+  height: 50px;
+  width:50px;
+}
+
+.asideIcon{
+  width:70%;
+}
+
+.aside{
+  background-color: pink;
+}

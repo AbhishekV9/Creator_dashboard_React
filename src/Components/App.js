@@ -1,9 +1,17 @@
+import Aside from './Aside';
+import Main from './Main';
 
+import {Container,Row,Col} from "react-bootstrap";
 
 function App() {
   return (
     <div>
-        <h1>hiiii</h1>
+        <Container className="noPadding">
+          <Row className="noMargin">
+            <Col className="noPadding"  md={2}> < Aside/> </Col>
+            <Col className="noPadding" md={10}> <Main/> </Col>
+          </Row>
+        </Container>
     </div>
   );
 }
