@@ -14,6 +14,7 @@ code {
 
 .f{
   display: flex;
+  justify-content: space-between;
 }
 
 .asideSection{
@@ -57,4 +58,72 @@ code {
 .logo{
   margin-top: 30px;
   margin-bottom: 15px;
+}
+
+.left{
+  height:100%;
+  margin-left: -50px;
+  background-color: #FAF6F3;
+}
+
+.right{
+  height:100%;
+}
+
+.f-col{
+  display: flex;
+  flex-direction: column;
+  font-size: small;
+}
+
+.f-col img{
+  height: 30px;
+  width: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.left-icons{
+  width:13%;
+}
+
+.main-left{
+  width:94%;
+  margin: auto;
+  margin-top: 15px;
+  background-color: white;
+}
+
+.centerText{
+  text-align: center;
+  padding: 2px;
+  margin-top: 2px;
+}
+
+.p{
+  padding: 5px;
+}
+
+.header{
+  margin-top: 5px;
+  margin-bottom: 12px;
+}
+
+.addBlock{
+  border-bottom: 7px solid #FAF6F3;
+  
+}
+
+.block{
+  border-bottom: 15px solid #FAF6F3;
+}
+
+.leftFooter img{
+    height:90px;
+    width:90px;
+}
+
+.leftFooter{
+  background-color:#FAF6F3;
 }
