@@ -6,7 +6,7 @@ function Aside(){
             <Stack gap={3}>
                 <div className="asideIcon logo ">
                     <div>
-                        <img src="https://cdn-icons.flaticon.com/png/512/15/premium/15640.png?token=exp=1635780973~hmac=0437a996ad0f604f8dc3170f9952b02b" alt="icon"  />
+                        <img src="https://cdn-icons-png.flaticon.com/512/2991/2991145.png" alt="icon"  />
                     </div>
                 </div>
                 <div className="asideIcon b s">
@@ -27,7 +27,7 @@ function Aside(){
                 </div>
                 <div className="asideIcon">
                     <div>
-                        <img src="https://cdn-icons.flaticon.com/png/512/2096/premium/2096983.png?token=exp=1635770373~hmac=a861e99922b562f92f8e24725907fc95" alt="icon"  />
+                        <img src="https://cdn-icons-png.flaticon.com/512/4599/4599504.png" alt="icon"  />
                     </div>
                     <div>
                         <p className="text"> Analytics </p>

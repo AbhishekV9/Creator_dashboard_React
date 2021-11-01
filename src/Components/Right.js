@@ -5,12 +5,12 @@ function Right(){
         <div>
             <div className="mobile">
                 <div className="leftside">
-                    <img src=" https://cdn-icons.flaticon.com/png/512/15/premium/15640.png?token=exp=1635780973~hmac=0437a996ad0f604f8dc3170f9952b02b " alt="icon"  />
+                    <img src=" https://cdn-icons-png.flaticon.com/512/2991/2991145.png " alt="icon"  />
                 </div> 
                 <div className="middle">
-                    <img src="https://cdn-icons.flaticon.com/png/512/3899/premium/3899618.png?token=exp=1635790794~hmac=ab5a9976ec03a616afebb7119bb5e38a" alt="icon"  />
+                    <img src="https://cdn-icons.flaticon.com/png/512/3177/premium/3177440.png?token=exp=1635795254~hmac=e45c59a473ef8d3a944521dfa47afca6" alt="icon"  />
                     <h5>@anshumanxda</h5>
-                    <h6>Powered By <img  src="https://cdn-icons.flaticon.com/png/512/15/premium/15640.png?token=exp=1635780973~hmac=0437a996ad0f604f8dc3170f9952b02b" alt="icon"  />Snipfeed</h6>                                
+                    <h6>Powered By <img  src="https://cdn-icons-png.flaticon.com/512/2991/2991145.png" alt="icon"  />Snipfeed</h6>                                
                 </div>           
             </div>
             <div className="rightSide">

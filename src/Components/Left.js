@@ -18,22 +18,22 @@ function Left(){
                             </div>
 
                             <div>
-                                <img src="https://cdn-icons.flaticon.com/png/512/1968/premium/1968666.png?token=exp=1635784730~hmac=d70ed31a4c0bcab08b182ac61f5a88ee"  alt="icon" />
+                                <img src="https://cdn-icons-png.flaticon.com/512/2065/2065157.png"  alt="icon" />
                                 <p  className="centerText" >Link Your Socials</p>
                             </div>
 
                             <div>
-                                <img src="https://cdn-icons.flaticon.com/png/512/1833/premium/1833915.png?token=exp=1635784833~hmac=d9fb852d99bf2b0154538cb1a4fb5aee"  alt="icon" />
+                                <img src="https://cdn-icons-png.flaticon.com/512/942/942751.png"  alt="icon" />
                                 <p className="centerText" >Text</p>
                             </div>
 
                             <div>
-                                <img src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256266.png?token=exp=1635784861~hmac=c6f4b34c945fa04fafe1bd90a2cfccb6" alt="icon" />
+                                <img src="https://cdn-icons-png.flaticon.com/512/2907/2907004.png" alt="icon" />
                                 <p className="centerText" >Music Preview</p>
                             </div>
 
                             <div>
-                                <img src="https://cdn-icons.flaticon.com/png/512/1320/premium/1320985.png?token=exp=1635784914~hmac=e38feb447651625c1afbc1014d2e36b9" alt="icon" />
+                                <img src="https://cdn-icons-png.flaticon.com/512/3039/3039386.png" alt="icon" />
                                 <p className="centerText" >Video Preview</p>
                             </div>
 
@@ -58,7 +58,7 @@ function Left(){
                         </div>
 
                         <div>
-                            <img src="https://cdn-icons.flaticon.com/png/512/1642/premium/1642735.png?token=exp=1635786229~hmac=4fd28bf9886b534bf210bfce30fce889" alt="icon" />
+                            <img src="https://cdn-icons-png.flaticon.com/512/1055/1055671.png" alt="icon" />
                             <p  className="centerText" >Exclusive Content</p>
                         </div>
 
