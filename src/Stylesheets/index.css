@@ -12,29 +12,49 @@ code {
     monospace;
 }
 
-.as{
-  background-color: black;
+.f{
+  display: flex;
 }
 
-div.noPadding {
-  padding-left: 0 !important;
-  padding-right: 0 !important;
+.asideSection{
+  width: 8%;
 }
 
-div.noMargin {
-  margin-left: 0 !important;
-  margin-right: 0 !important;
+.mainSection{
+  width:92%;
 }
 
-img{
-  height: 50px;
-  width:50px;
+.aside img{
+  height:30px;
+  width:30px;
+  margin-left: 18px;
 }
 
 .asideIcon{
   width:70%;
+  margin: auto;
+}
+
+.s{
+  background-color:#FFEEF2;
+  color:grey;
+  box-shadow: 5px 5px 5px #888888;
 }
 
 .aside{
-  background-color: pink;
+  height: 100vh;
+}
+
+.text{
+  text-align: center;
+}
+
+.b{
+  border: 1px solid pink;
+  border-radius: 10%;
+}
+
+.logo{
+  margin-top: 30px;
+  margin-bottom: 15px;
 }
