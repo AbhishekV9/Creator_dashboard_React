@@ -169,10 +169,19 @@ code {
 
 .rightSide{
   margin-left: 500px;
-  margin-top: 35px;
+  margin-top: 30px;
 }
 
 .middle{
   text-align: center;
   margin-top: 34px;
 }
+
+.mr-10{
+  margin-left: 10px;
+}
+
+form input{
+  width: 280px !important;
+}
+
